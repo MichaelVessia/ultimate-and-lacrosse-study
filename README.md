@@ -2,6 +2,14 @@
 
 Limiting Factors to Participation in USA Ultimate in Comparison to US Lacrosse
 
+## Files
+
+* [Presentation](research-paper.pdf)
+
+* [Research Paper](presentation.pdf)
+
+* [SCript](script.r)
+
 ## Owners
 
 * Michael A. Agarenzo
