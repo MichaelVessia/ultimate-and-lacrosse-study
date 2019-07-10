@@ -8,7 +8,7 @@ Limiting Factors to Participation in USA Ultimate in Comparison to US Lacrosse
 
 * [Research Paper](presentation.pdf)
 
-* [SCript](script.r)
+* [Script](script.r)
 
 ## Owners
 
